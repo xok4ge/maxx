@@ -7,10 +7,8 @@ $\int\frac{dx}{\sqrt{x^{2}\pm a^{2}}}=\ln\left| x+\sqrt{x^{2}\pm a^{2}} \right|+
 
 
 
-$\qquad d^{\ast }(f,g) = \int_{a}^{b}\left| f(t) - g(t)dt \> \right| \lt \delta
-$
+$\qquad d^{\ast }(f,g) = \int_{a}^{b}\left| f(t) - g(t)dt \> \right| \lt \delta$
 
-$\left| \int_{a}^{b} f(t) - g(t)dt \>\right| = \left| \lim_{n \to \infty } \quad \sum_{i=1}^{n}M_{i}(t_{i}-t_{i - 1})  \right| \le 
-$  
+$\left| \int_{a}^{b} f(t) - g(t)dt \>\right| = \left| \lim_{n \to \infty } \quad \sum_{i=1}^{n}M_{i}(t_{i}-t_{i - 1})  \right| \le $  
 
 $\lim_{n \to \infty} \sum_{i=1}^{n}\left| M_{i}(t_{i} - t_{i - 1}) \right| = \int_{a}^{b}\left| f(t) - g(t)dt \> \right|<\delta=\epsilon$
